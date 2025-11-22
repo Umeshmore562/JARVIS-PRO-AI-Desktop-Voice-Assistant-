@@ -1,17 +1,18 @@
 
 EMAIL_CONTACTS = {
-    "umesh": "umeshmoreat5@gmail.com",
-    "ishika": "ishikamore37@gmail.com",
-    "dowson":"kolidowson91@gmail.com"	
+    "Jonh": "Enter your Email ID",
+    "Peter": "Enter your Email ID",
+    "dowson":"Enter your Email ID"	
 }
-SENDER_EMAIL = "umeshmoreat5@gmail.com"
-SENDER_PASSWORD = "sokk kvtn evgy cvcq"
+SENDER_EMAIL = "Enter your Email ID"
+SENDER_PASSWORD = "Enter your password"
 
 
 WHATSAPP_CONTACTS = {
-    "umesh": "+91932463337",
-    "ishika": "+919004221030"
+    "Jonh": "Enter Your Number"
+    "Peter": "Enter Your Number"
 }
 
 
-MODEL_PATH = "C:\\Users\\ishika more\\Desktop\\New folder (2)\\gpt4all-falcon-newbpe-q4_0.gguf"
+MODEL_PATH = "Enter Model Path"
+
