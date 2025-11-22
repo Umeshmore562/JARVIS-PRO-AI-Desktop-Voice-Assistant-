@@ -202,7 +202,7 @@ send_btn = ctk.CTkButton(input_frame, text="Send", command=process_typed_command
 send_btn.grid(row=0, column=1, padx=5)
 
 
-OPENWEATHER_API_KEY = "02a4cd0583fb56f43b0c97803d0e7f40"
+OPENWEATHER_API_KEY = "Enter your API KEY "
 CITY = "Mumbai"
 
 def update_time():
@@ -232,3 +232,4 @@ update_weather()
 gui_update_loop()
 
 app.mainloop()
+
