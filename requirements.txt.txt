@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+pywhatkit
+pyjokes
+requests
+wikipedia
+python-docx
+python-pptx
+customtkinter
+psutil
+gTTS
